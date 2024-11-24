@@ -114,4 +114,56 @@ Je suis développeur full-stack<br>
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/k) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Suivi des Tâches du Projet 🚀
+
+## 📝 À faire
+- [ ] Configurer l'environnement de développement local
+  - Priorité : Haute
+  - Assigné à : **Alice**
+  - Échéance : 2024-12-01
+- [ ] Rédiger les spécifications techniques du module d'authentification
+- [ ] Créer les maquettes de l'interface utilisateur
+- [ ] test kjkj
+- [ ] Intégrer le paiement en ligne
+  - [x] Priorité : Haute
+  - [ ] Assigné à : **Alice**
+  - Échéance : 2024-12-01
+
+## 🔄 En cours
+- [ ] Développer l'API REST pour les utilisateurs (assigné à **Alice**)
+- [ ] Intégrer le système de notifications par e-mail (assigné à **Bob**)
+
+## 🔃 En MR (Merge Request)
+- [ ] Ajouter les tests unitaires pour les endpoints `/auth/login` (MR #45)
+- [ ] Refactoriser le composant `Header` pour respecter les nouvelles conventions (MR #47)
+
+## 🚀 À déployer
+- [ ] Correctif pour le bug #112 (en attente de validation en staging)
+- [ ] Mise à jour des dépendances npm (vérifié en QA)
+
+## ✅ Terminé
+- [x] Installer les dépendances principales du projet (React, Next.js, TailwindCSS)
+- [x] Configurer le linter et les outils de formatage (ESLint, Prettier)
+- [x] Déployer l'environnement de staging
+
+---
+
+
+  
+# Suivi des Tâches du Projet 🚀
+
+| **Statut**      | **Tâche**                                    | **Assigné à** | **Échéance**     | **Remarques**                       |
+|------------------|----------------------------------------------|---------------|------------------|--------------------------------------|
+| 📝 À faire      | Configurer l'environnement de développement  | Alice         | 2024-12-01       | Priorité haute                      |
+| 📝 À faire      | Rédiger les spécifications techniques         | Bob           | 2024-11-30       | Inclure les contraintes de sécurité |
+| 📝 À faire      | Créer les maquettes de l'interface utilisateur | Charlie      | 2024-12-05       |                                    |
+| 🔄 En cours     | Développer l'API REST pour les utilisateurs   | Alice         | 2024-11-28       | Endpoint /users                     |
+| 🔄 En cours     | Intégrer le système de notifications          | Bob           | 2024-11-27       | E-mails transactionnels             |
+| 🔃 En MR        | Ajouter les tests unitaires `/auth/login`     | Alice         | 2024-11-25       | MR #45                              |
+| 🔃 En MR        | Refactoriser le composant `Header`            | Bob           | 2024-11-26       | MR #47                              |
+| 🚀 À déployer   | Correctif pour le bug #112                    | Charlie       | 2024-11-24       | En attente de validation en staging |
+| 🚀 À déployer   | Mise à jour des dépendances npm               | Bob           | 2024-11-24       | Vérifié en QA                       |
+| ✅ Terminé      | Installer les dépendances principales         | Alice         | 2024-11-20       | React, Next.js, TailwindCSS         |
+| ✅ Terminé      | Configurer le linter et Prettier              | Bob           | 2024-11-21       | ESLint, Prettier                    |
+| ✅ Terminé      | Déployer l'environnement de staging           | Charlie       | 2024-11-22       |                                    |
+
