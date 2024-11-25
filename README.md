@@ -3,12 +3,7 @@ Je suis développeur full-stack<br>
 
 [PorteFolio](https://www.melaniedev.com)
 
-![PORTfolio](https://github.com/user-attachments/assets/a974723f-e320-406d-be4e-87156025a247)(https://www.melaniedev.com)
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/4aa01adb-5999-4888-8e88-4b5a1cc986e0)
 
 
 
