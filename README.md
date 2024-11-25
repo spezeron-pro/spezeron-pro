@@ -1,9 +1,9 @@
-# 👨🏽‍💻 A propos de moi:
-Je suis développeur full-stack<br>
+![image](https://github.com/user-attachments/assets/4aa01adb-5999-4888-8e88-4b5a1cc986e0)
 
 [PorteFolio](https://www.melaniedev.com)
 
-![image](https://github.com/user-attachments/assets/4aa01adb-5999-4888-8e88-4b5a1cc986e0)
+# 👨🏽‍💻 A propos de moi:
+Je suis développeur full-stack<br>
 
 
 
